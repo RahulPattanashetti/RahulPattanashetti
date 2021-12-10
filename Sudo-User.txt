@@ -1,0 +1,10 @@
+ICAR
+Host: 3.109.65.179
+Username:staging-user 
+Password: R5ZJ5yjhyW
+
+
+NCW
+Host: 3.6.200.159
+Username: staging-user
+Password: SgBE4VTwyP4CdWpq
